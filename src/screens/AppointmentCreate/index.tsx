@@ -3,8 +3,8 @@ import { View, Text } from "react-native";
 import { Header } from "../../components/Header";
 import { CategorySelect } from "../../components/CategorySelect";
 import { Background } from "../../components/Background";
-import {styles} from "./styles";
 import { theme } from "../../global/styles/theme";
+import {styles} from "./styles";
 
 export function AppointmentCreate(){
     const [category, setCategory] = useState('')
@@ -17,6 +17,7 @@ export function AppointmentCreate(){
             <Text style={styles.label}>
                 Categoria
             </Text>
+
 
             <CategorySelect
                 hasCheckBox
