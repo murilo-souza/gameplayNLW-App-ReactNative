@@ -5,7 +5,7 @@ Aplicativo feito na Next Level Week em React Native
 
 <h2>Tecnologia</h2>
 <ul>
-  <li><a href="">Expo</a></li>
-  <li><a href="">TypeScript</a></li>
-  <li><a href="">React Native</a></li>
+  <li><a href="https://docs.expo.io">Expo</a></li>
+  <li><a href="https://www.typescriptlang.org">TypeScript</a></li>
+  <li><a href="https://reactnative.dev">React Native</a></li>
 </ul>
