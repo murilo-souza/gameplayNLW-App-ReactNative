@@ -1,7 +1,7 @@
 <h1 align="center">Gameplay</h1>
 
 <h2>Projeto</h2>
-Aplicativo feito na Next Level Week em React Native
+Aplicativo para agendar gameplays com os amigos, feito na Next Level Week em React Native
 
 <h2>Tecnologia</h2>
 <ul>
