@@ -1,4 +1,3 @@
-
 import {
     REDIRECT_URI,
     SCOPE,
