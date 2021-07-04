@@ -3,9 +3,9 @@ import { Image, View } from "react-native";
 import {styles} from "./styles"
 import DiscordSVG from '../../assets/discord.svg'
 
-//const {CDN_IMAGE} = process.env;
+const {CDN_IMAGE} = process.env;
 
-import {CDN_IMAGE} from '../../configs/index'
+
 
 type Props = {
     guildId: string,
