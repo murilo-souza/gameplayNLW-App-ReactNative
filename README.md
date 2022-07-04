@@ -8,6 +8,7 @@
   <li><a href="https://docs.expo.io">Expo</a></li>
   <li><a href="https://www.typescriptlang.org">TypeScript</a></li>
   <li><a href="https://reactnative.dev">React Native</a></li>
+  <li><a href="https://docs.expo.dev/versions/latest/sdk/async-storage/">Async Storage</a></li>
   <li><a href="https://reactnavigation.org/">React Navigation</a></li>
 </ul>
 
